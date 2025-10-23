@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Spider-Man: Homecoming",
+    "description": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_.jpg",
+    "releaseYear": 2017,
+    "duration": "2h 13m",
+    "type": "movie",
+    "rating": 7.4,
+    "imdbRating": 7.4,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "category": "hollywood",
+    "cast": ["Tom Holland", "Michael Keaton", "Robert Downey Jr.", "Marisa Tomei"],
+    "director": "Jon Watts",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["prime"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://www.primevideo.com/detail/Spider-Man-Homecoming"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BMTUwMjQwOTQzMl5BMl5BanBnXkFtZTgwODYyMzM4MjI@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=39udJN-BkAA",
+    "tags": ["marvel", "spider-man", "superhero", "mcu"],
+    "metaTitle": "Watch Spider-Man: Homecoming Online | Marvel Superhero",
+    "metaDescription": "Stream Spider-Man: Homecoming in 4K. Tom Holland stars as the friendly neighborhood Spider-Man in this Marvel Cinematic Universe adventure.",
+    "status": "published"
+  },
+  {
+    "title": "Spider-Man: Far from Home",
+    "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
+    "releaseYear": 2019,
+    "duration": "2h 9m",
+    "type": "movie",
+    "rating": 7.3,
+    "imdbRating": 7.3,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "category": "hollywood",
+    "cast": ["Tom Holland", "Samuel L. Jackson", "Jake Gyllenhaal", "Zendaya"],
+    "director": "Jon Watts",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["prime"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://www.primevideo.com/detail/Spider-Man-Far-from-Home"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BODk0MjYxNzU1M15BMl5BanBnXkFtZTgwOTI1MjMyMDI@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=Nt9L1jCKGnE",
+    "tags": ["marvel", "spider-man", "superhero", "mcu", "europe"],
+    "metaTitle": "Watch Spider-Man: Far from Home Online | European Adventure",
+    "metaDescription": "Stream Spider-Man: Far from Home in 4K. Tom Holland's Spider-Man faces new challenges in Europe in this Marvel sequel.",
+    "status": "published"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "releaseYear": 2019,
+    "duration": "3h 1m",
+    "type": "movie",
+    "rating": 8.4,
+    "imdbRating": 8.4,
+    "genres": ["Action", "Adventure", "Drama"],
+    "category": "hollywood",
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson"],
+    "director": "Anthony Russo, Joe Russo",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["disney"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$19.99",
+        "url": "https://www.disneyplus.com/movies/avengers-endgame"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "tags": ["marvel", "avengers", "superhero", "mcu", "thanostory"],
+    "metaTitle": "Watch Avengers: Endgame Online | Marvel Finale",
+    "metaDescription": "Stream Avengers: Endgame in 4K. The epic conclusion to the Infinity Saga. Highest-grossing film of all time.",
+    "status": "published"
+  },
+  {
+    "title": "Black Panther",
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg",
+    "releaseYear": 2018,
+    "duration": "2h 14m",
+    "type": "movie",
+    "rating": 7.3,
+    "imdbRating": 7.3,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "category": "hollywood",
+    "cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o", "Danai Gurira", "Martin Freeman"],
+    "director": "Ryan Coogler",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["disney"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$19.99",
+        "url": "https://www.disneyplus.com/movies/black-panther"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BMTUyMjg1MTQzOF5BMl5BanBnXkFtZTgwNDI3MTQ1NjM@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+    "tags": ["marvel", "superhero", "mcu", "wakanda", "african"],
+    "metaTitle": "Watch Black Panther Online | Wakanda Forever",
+    "metaDescription": "Stream Black Panther in 4K. Chadwick Boseman stars as the king of Wakanda in this groundbreaking Marvel film.",
+    "status": "published"
+  },
+  {
+    "title": "Joker",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGc@._V1_.jpg",
+    "releaseYear": 2019,
+    "duration": "2h 2m",
+    "type": "movie",
+    "rating": 8.4,
+    "imdbRating": 8.4,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "category": "hollywood",
+    "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz", "Frances Conroy"],
+    "director": "Todd Phillips",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["hbo"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://play.hbomax.com/page/urn:hbo:page:GYPdIrQ3yH4JDAwEAAAAy:title"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGc@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+    "tags": ["dc", "batman", "psychological", "thriller", "oscar-winner"],
+    "metaTitle": "Watch Joker Online | Psychological Thriller",
+    "metaDescription": "Stream Joker in 4K. Joaquin Phoenix's Oscar-winning performance as Gotham's most infamous villain.",
+    "status": "published"
+  },
+  {
+    "title": "Dune",
+    "description": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OTdhXkEyXkFqcGc@._V1_.jpg",
+    "releaseYear": 2021,
+    "duration": "2h 35m",
+    "type": "movie",
+    "rating": 8.0,
+    "imdbRating": 8.0,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "category": "hollywood",
+    "cast": ["Timothée Chalamet", "Rebecca Ferguson", "Oscar Isaac", "Josh Brolin", "Stellan Skarsgård"],
+    "director": "Denis Villeneuve",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["hbo"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://play.hbomax.com/page/urn:hbo:page:GY9jFbgJhvsJOEwEAAADK:title"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BZjgzNjg4MjktYzZhNS00OWIwLWI0MjgtZTg3MTQ5N2ZjYTZlXkEyXkFqcGc@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+    "tags": ["sci-fi", "epic", "villeneuve", "franchise", "oscar-nominated"],
+    "metaTitle": "Watch Dune Online | Sci-Fi Epic",
+    "metaDescription": "Stream Dune in 4K. Denis Villeneuve's visually stunning adaptation of Frank Herbert's masterpiece.",
+    "status": "published"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWQwOTA1ZDQtNzk3Yi00ZmVmLWFiZGYtNjdjNThiYjJhNzRjXkEyXkFqcGc@._V1_.jpg",
+    "releaseYear": 2022,
+    "duration": "2h 10m",
+    "type": "movie",
+    "rating": 8.2,
+    "imdbRating": 8.2,
+    "genres": ["Action", "Drama"],
+    "category": "hollywood",
+    "cast": ["Tom Cruise", "Jennifer Connelly", "Miles Teller", "Val Kilmer", "Glenn Powell"],
+    "director": "Joseph Kosinski",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["paramount"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://www.paramountplus.com/movies/top-gun-maverick/"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BYTJmMjY3YzAtZTFkZi00YjhhLWI2YjktMTZlZTM5NzQ4MzIyXkEyXkFqcGc@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+    "tags": ["tom-cruise", "aviation", "sequel", "action", "oscar-nominated"],
+    "metaTitle": "Watch Top Gun: Maverick Online | Aviation Action",
+    "metaDescription": "Stream Top Gun: Maverick in 4K. Tom Cruise returns as Maverick in this long-awaited sequel to the 1986 classic.",
+    "status": "published"
+  },
+  {
+    "title": "Oppenheimer",
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzBhYjhiMGEtMDQ4OS00Yjg4LWIzYmYtYTQ2MzQ0YjBhZjYzXkEyXkFqcGc@._V1_.jpg",
+    "releaseYear": 2023,
+    "duration": "3h",
+    "type": "movie",
+    "rating": 8.5,
+    "imdbRating": 8.5,
+    "genres": ["Biography", "Drama", "History"],
+    "category": "hollywood",
+    "cast": ["Cillian Murphy", "Emily Blunt", "Matt Damon", "Robert Downey Jr.", "Florence Pugh"],
+    "director": "Christopher Nolan",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["prime"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$19.99",
+        "url": "https://www.primevideo.com/detail/Oppenheimer"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BMzBhYjhiMGEtMDQ4OS00Yjg4LWIzYmYtYTQ2MzQ0YjBhZjYzXkEyXkFqcGc@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+    "tags": ["nolan", "biography", "history", "atomic-bomb", "oscar-winner"],
+    "metaTitle": "Watch Oppenheimer Online | Historical Drama",
+    "metaDescription": "Stream Oppenheimer in 4K. Christopher Nolan's biographical thriller about the father of the atomic bomb.",
+    "status": "published"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "description": "John Wick uncovers a path to defeating the High Table, but before he can earn his freedom, Wick must face off against a new enemy with powerful alliances.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDk4MDQyNDctYTk1ZS00OGI2LWFhZjctMjBhZjhiNTM0YTQzXkEyXkFqcGc@._V1_.jpg",
+    "releaseYear": 2023,
+    "duration": "2h 49m",
+    "type": "movie",
+    "rating": 7.7,
+    "imdbRating": 7.7,
+    "genres": ["Action", "Crime", "Thriller"],
+    "category": "hollywood",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "George Georgiou", "Lance Reddick", "Ian McShane"],
+    "director": "Chad Stahelski",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["prime"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://www.primevideo.com/detail/John-Wick-Chapter-4"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BZGU2YjIzZmYtZjg0Yi00ZDc4LTk0MjAtYzIyY2ZkYzYzYzYzXkEyXkFqcGc@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=qEVUtrk8_B4",
+    "tags": ["action", "assassin", "keanu", "gun-fu", "sequel"],
+    "metaTitle": "Watch John Wick: Chapter 4 Online | Action Thriller",
+    "metaDescription": "Stream John Wick: Chapter 4 in 4K. Keanu Reeves returns as the legendary assassin in this high-octane sequel.",
+    "status": "published"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa to flee from a cult leader and his army in an armored tanker truck.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTQxMjg2NjYxN15BMl5BanBnXkFtZTgwODQyNzQ5NTE@._V1_.jpg",
+    "releaseYear": 2015,
+    "duration": "2h",
+    "type": "movie",
+    "rating": 8.1,
+    "imdbRating": 8.1,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "category": "hollywood",
+    "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult", "Hugh Keays-Byrne", "Josh Helman"],
+    "director": "George Miller",
+    "languages": ["English"],
+    "quality": "4K",
+    "streamingPlatforms": ["hbo"],
+    "downloadLinks": [
+      {
+        "quality": "4K",
+        "size": "$14.99",
+        "url": "https://play.hbomax.com/page/urn:hbo:page:GVU2cMQ2yLMPDAwEAAAFj:title"
+      }
+    ],
+    "screenshots": ["https://m.media-amazon.com/images/M/MV5BODk0MjYxNzU1M15BMl5BanBnXkFtZTgwOTI1MjMyMDI@._V1_.jpg"],
+    "trailerUrl": "https://www.youtube.com/watch?v=hEJnMQG9ev8",
+    "tags": ["post-apocalyptic", "action", "miller", "oscar-nominated", "thriller"],
+    "metaTitle": "Watch Mad Max: Fury Road Online | Post-Apocalyptic Action",
+    "metaDescription": "Stream Mad Max: Fury Road in 4K. George Miller's explosive return to the wasteland with Tom Hardy and Charlize Theron.",
+    "status": "published"
+  }
+]
