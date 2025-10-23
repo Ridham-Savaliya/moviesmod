@@ -19,7 +19,7 @@ app.use(express.urlencoded({ extended: true }));
 // CORS Configuration
 const corsOptions = {
   origin: [
-    process.env.FRONTEND_URL || 'https://moviesmod-virid.vercel.app/',
+    process.env.FRONTEND_URL || 'https://moviesmod-virid.vercel.app',
     process.env.ADMIN_URL || 'moviesmodadmin.vercel.app'
   ],
   credentials: true,
