@@ -55,7 +55,7 @@ export default function MovieDetail({ movie, relatedMovies }) {
 
   const movieSchema = generateMovieSchema(movie);
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000' },
+    { name: 'Home', url: process.env.NEXT_PUBLIC_SITE_URL || 'https://moviesmod-virid.vercel.app' },
     { name: movie.category?.name || 'Movies', url: `${process.env.NEXT_PUBLIC_SITE_URL}/category/${movie.category?.slug}` },
     { name: movie.title, url: `${process.env.NEXT_PUBLIC_SITE_URL}/movie/${movie.slug}` },
   ]);

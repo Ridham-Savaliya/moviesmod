@@ -25,7 +25,7 @@ const Layout = ({ children, title, description, keywords, ogImage }) => {
   }, []);
 
   const siteName = process.env.NEXT_PUBLIC_SITE_NAME || 'MoviesHub';
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://moviesmod-virid.vercel.app';
   const defaultDescription = process.env.NEXT_PUBLIC_SITE_DESCRIPTION || 
     'Watch and download latest movies in HD quality';
 
