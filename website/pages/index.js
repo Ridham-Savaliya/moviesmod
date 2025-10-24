@@ -4,7 +4,7 @@ import Layout from '@/components/Layout/Layout';
 import MovieGrid from '@/components/Movies/MovieGrid';
 import Pagination from '@/components/UI/Pagination';
 import FilterBar from '@/components/UI/FilterBar';
-import AdUnit from '@/components/AdSense/AdUnit';
+import AdSlotRenderer from '@/components/AdSense/AdSlotRenderer';
 import { moviesAPI, categoriesAPI } from '@/lib/api';
 import { generateWebsiteSchema } from '@/lib/seo';
 
@@ -50,7 +50,7 @@ export default function Home({ initialMovies, initialPagination, categories }) {
   };
 
   const siteName = process.env.NEXT_PUBLIC_SITE_NAME || 'MoviesHub';
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://moviesmod-virid.vercel.app';
   const description = process.env.NEXT_PUBLIC_SITE_DESCRIPTION || 
     'Watch and download latest movies in HD quality';
 
@@ -70,7 +70,7 @@ export default function Home({ initialMovies, initialPagination, categories }) {
 
       <div className="container mx-auto px-4 py-8">
         {/* Header Ad */}
-        <AdUnit slot="header-ad" className="mb-8" />
+        <AdSlotRenderer position="header" className="mb-8" />
 
         {/* Filter Bar */}
         <FilterBar onFilterChange={handleFilterChange} categories={categories} />
@@ -86,7 +86,7 @@ export default function Home({ initialMovies, initialPagination, categories }) {
         />
 
         {/* Footer Ad */}
-        <AdUnit slot="footer-ad" className="mt-8" />
+        <AdSlotRenderer position="footer" className="mt-8" />
       </div>
     </Layout>
   );

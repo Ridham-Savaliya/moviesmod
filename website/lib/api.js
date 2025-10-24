@@ -31,4 +31,10 @@ export const feedbackAPI = {
     api.get(`/feedback/${movieId}`, { params: { page, limit } }),
 };
 
+// Ad Slots API
+export const adSlotsAPI = {
+  getAll: (position) => api.get('/ad-slots', { params: position ? { position } : {} }),
+  getByPosition: (position) => api.get('/ad-slots', { params: { position } }),
+};
+
 export default api;

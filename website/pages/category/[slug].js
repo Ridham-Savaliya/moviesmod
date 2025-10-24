@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import Layout from '@/components/Layout/Layout';
 import MovieGrid from '@/components/Movies/MovieGrid';
 import Pagination from '@/components/UI/Pagination';
-import AdUnit from '@/components/AdSense/AdUnit';
+import AdSlotRenderer from '@/components/AdSense/AdSlotRenderer';
 import { moviesAPI, categoriesAPI } from '@/lib/api';
 
 export default function CategoryPage({ category, initialMovies, initialPagination }) {
@@ -64,7 +64,7 @@ export default function CategoryPage({ category, initialMovies, initialPaginatio
         </div>
 
         {/* Top Ad */}
-        <AdUnit slot="category-top" className="mb-8" />
+        <AdSlotRenderer position="header" className="mb-8" />
 
         {/* Movies Grid */}
         <MovieGrid movies={movies} loading={loading} />
@@ -77,7 +77,7 @@ export default function CategoryPage({ category, initialMovies, initialPaginatio
         />
 
         {/* Bottom Ad */}
-        <AdUnit slot="category-bottom" className="mt-8" />
+        <AdSlotRenderer position="footer" className="mt-8" />
       </div>
     </Layout>
   );

@@ -52,6 +52,7 @@ app.use('/api/feedback', require('./routes/feedback'));
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/admin', require('./routes/admin'));
 app.use('/api/analytics', require('./routes/analytics'));
+app.use('/api/ad-slots', require('./routes/adSlots'));
 
 // Health Check
 app.get('/health', (req, res) => {

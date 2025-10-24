@@ -7,7 +7,7 @@ import Layout from '@/components/Layout/Layout';
 import MovieGrid from '@/components/Movies/MovieGrid';
 import FeedbackForm from '@/components/Feedback/FeedbackForm';
 import FeedbackList from '@/components/Feedback/FeedbackList';
-import AdUnit from '@/components/AdSense/AdUnit';
+import AdSlotRenderer from '@/components/AdSense/AdSlotRenderer';
 import { moviesAPI } from '@/lib/api';
 import { getImageUrl, formatViews, getQualityColor } from '@/lib/utils';
 import { generateMovieSchema, generateBreadcrumbSchema } from '@/lib/seo';
@@ -80,7 +80,7 @@ export default function MovieDetail({ movie, relatedMovies }) {
 
       <div className="container mx-auto px-4 py-8">
         {/* Top Ad */}
-        <AdUnit slot="movie-detail-top" className="mb-8" />
+        <AdSlotRenderer position="movie-detail-top" className="mb-8" />
 
         {/* Movie Header */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-8">
@@ -187,7 +187,7 @@ export default function MovieDetail({ movie, relatedMovies }) {
         </div>
 
         {/* Sidebar Ad */}
-        <AdUnit slot="sidebar-ad" className="mb-8 lg:hidden" />
+        <AdSlotRenderer position="sidebar" className="mb-8 lg:hidden" />
 
         {/* Tabs */}
         <div className="bg-dark-100 rounded-lg overflow-hidden mb-8">
@@ -518,7 +518,7 @@ export default function MovieDetail({ movie, relatedMovies }) {
         </div>
 
         {/* Between Content Ad */}
-        <AdUnit slot="between-movies" className="mb-8" />
+        <AdSlotRenderer position="between-movies" className="mb-8" />
 
         {/* Related Movies */}
         {relatedMovies && relatedMovies.length > 0 && (
@@ -529,7 +529,7 @@ export default function MovieDetail({ movie, relatedMovies }) {
         )}
 
         {/* Bottom Ad */}
-        <AdUnit slot="movie-detail-bottom" className="mt-8" />
+        <AdSlotRenderer position="movie-detail-bottom" className="mt-8" />
       </div>
     </Layout>
   );
