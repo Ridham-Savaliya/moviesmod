@@ -20,7 +20,7 @@ app.use(express.urlencoded({ extended: true }));
 const corsOptions = {
   origin: [
     process.env.FRONTEND_URL || 'https://moviesmod-virid.vercel.app',
-    process.env.ADMIN_URL || 'http://moviesmodadmin.vercel.app'
+    process.env.ADMIN_URL || 'https://moviesmodadmin.vercel.app'
   ],
   credentials: true,
   optionsSuccessStatus: 200
